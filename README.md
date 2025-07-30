@@ -1,4 +1,4 @@
-# CodeAlpha_Internship_Tasks
+# CodeAlpha_Internship_Tasks_of_Data Analytics
 
 This repository contains the completed tasks for the CodeAlpha Data Analytics Internship. The projects showcase hands-on experience in various data analysis techniques, including Web Scraping, Exploratory Data Analysis (EDA), Data Visualization, and Sentiment Analysis, utilizing Python and its powerful libraries.
 
